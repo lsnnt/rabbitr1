@@ -19,3 +19,5 @@ https://mega.nz/file/rRdwhaII#02OcaqQghqhJQ5nvF3rjAdlCfeVOzdrkbBIM3sX6Gl4
 https://penpencil-static-content.s3.ap-south-1.amazonaws.com/5eb393ee95fab7468a79d189/ASK_DOUBT/6c094f4d-00ac-440c-8924-07766c632506.zip
 
 <!--Added a link that never expires-->
+https://dvvwf08ea9qan.cloudfront.net/137/student/myNotes/794426_1582694_162_1713940837000.zip
+<!--cloudfront cdn link-->
